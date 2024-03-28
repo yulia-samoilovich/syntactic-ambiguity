@@ -1,83 +1,78 @@
 {
     "sentences": [
         {
-            "sentence": "The employees knew the contract was unfair so they organized a walkout to pressure management into negotiating better terms",
+            "sentence": "The employees knew the contract was about to expire",
             "is_NP": true,
             "is_S": false
         },
         {
-            "sentence": "The mechanic accepted the car that needed repairs from the customer in order to diagnose the issues it was having",
+            "sentence": "The mechanic accepted the car for repair",
             "is_NP": true,
             "is_S": false
         },
         {
-            "sentence": "The old man recalled the nurse who had taken care of him when he was hospitalized last year",
+            "sentence": "The old man recalled the nurse who had cared for him during his recent stay in the hospital",
             "is_NP": true,
             "is_S": false
         },
         {
-            "sentence": "The traveller heard the clock strike midnight as he entered the mysterious old mansion",
-            "is_NP": true,
-            "is_S": false  
-        },
-        {
-            "sentence": "The journalist confirmed the story after speaking to multiple sources and verifying the key details",
-            "is_NP": true,
-            "is_S": false
-        },
-        {
-            "sentence": "The worker maintained the walls by repairing any cracks that developed over time", 
-            "is_NP": true,
-            "is_S": false
-        },
-        {
-            "sentence": "The apprentice forgot the bicycle when he went to the store to pick up parts for his master",
-            "is_NP": true,
-            "is_S": false
-        },
-        {
-            "sentence": "The committee mentioned the issue in their report",
-            "is_NP": true,
-            "is_S": false
-        },
-        {
-            "sentence": "The army found the supplies they had been searching for in an abandoned warehouse on the edge of town",
+            "sentence": "The traveller heard the clock strike midnight as they approached their destination",
             "is_NP": false,
             "is_S": true
         },
         {
-            "sentence": "The umpire warned the spectators to stop heckling the players or they would be removed from the stadium",
-            "is_NP": false, 
-            "is_S": true
+            "sentence": "The worker maintained the walls by regularly cleaning, repairing, and painting them to keep them in good condition",
+            "is_NP": true,
+            "is_S": false
         },
         {
-            "sentence": "The coach discovered the player had been using performance-enhancing drugs and decided to remove him from the team",
+            "sentence": "The apprentice forgot the bicycle at the workshop",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The committee mentioned the issue of climate change during their meeting",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The army found the supplies hidden in the abandoned warehouse",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The umpire warned the spectators to refrain from disruptive behavior and to respect the players and officials during the game",
             "is_NP": false,
             "is_S": true
         },
         {
-            "sentence": "The woman noticed the flyer on the community bulletin board advertising guitar lessons",
-            "is_NP": true,
-            "is_S": false
-        },
-        {
-            "sentence": "The tourists saw the palace and were impressed by its grand architecture and ornate details",
-            "is_NP": true,
-            "is_S": false
-        },
-        {
-            "sentence": "The scientists proved the theory correct through extensive experimentation and data analysis",
-            "is_NP": true,
-            "is_S": false
-        },
-        {
-            "sentence": "The soldiers remembered the town where they had spent their childhood before going off to war",
+            "sentence": "The coach discovered the player had been hiding an injury from the team",
             "is_NP": false,
             "is_S": true
         },
         {
-            "sentence": "The priest recognized two guests who had attended the church service the previous Sunday",
-            "is_NP": true, 
+            "sentence": "The woman noticed the flyer advertising a local community event",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The tourists saw the palace in all its grandeur, its ornate architecture and intricate details captivating their attention",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The scientists proved the theory to be accurate and supported by the evidence they had gathered through their research",
+            "is_NP": false,
+            "is_S": true
+        },
+        {
+            "sentence": "The soldiers remembered the town they had liberated after a fierce battle",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The priest recognized two guests in the congregation",
+            "is_NP": true,
             "is_S": false
         },
         {
@@ -86,19 +81,114 @@
             "is_S": false
         },
         {
-            "sentence": "The owners insured the house against damage in case of disasters like floods or fires",
+            "sentence": "The owners insured the house against potential damages or losses",
             "is_NP": true,
             "is_S": false
         },
         {
-            "sentence": "The lawyer established the alibi by presenting security footage that showed his client was across town at the time of the crime",
+            "sentence": "The lawyer established the alibi for the defendant, proving that they were not present at the scene of the crime during the time the incident occurred",
             "is_NP": false,
             "is_S": true
         },
         {
-            "sentence": "The store guaranteed the television would work properly for two years after purchase",
+            "sentence": "The store guaranteed the television would be delivered within 2 business days",
             "is_NP": false,
             "is_S": true
+        },
+        {
+            "sentence": "The chef tasted the sauce to ensure it had the right balance of flavors and seasoning",
+            "is_NP": false,
+            "is_S": true
+        },
+        {
+            "sentence": "The student borrowed the book from the library",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The artist painted the canvas with vibrant colors and intricate brushstrokes, creating a captivating work of art",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The pilot checked the altitude of the aircraft before initiating the descent",
+            "is_NP": false,
+            "is_S": true
+        },
+        {
+            "sentence": "The musician tuned the instrument to ensure it was in perfect pitch and ready for the performance",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The gardener trimmed the bushes in the backyard",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The parent packed the lunch for their child to take to school",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The cashier counted the money carefully to ensure the correct amount was in the register",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The programmer debugged the code and found the issue that was causing the program to malfunction",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The captain navigated the ship through the treacherous waters of the stormy sea",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The tailor hemmed the pants to the desired length",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The librarian cataloged the books on the shelves in the library",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The firefighter extinguished the flames with the fire hose",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The counselor listened to the problem attentively and with empathy, providing a compassionate ear and seeking to understand the client's concerns",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The supervisor evaluated the performance of the team and provided feedback to help them improve their productivity and efficiency",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The conductor directed the orchestra to play the symphony with passion and precision",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The pharmacist dispensed the medication to the patient as prescribed by the doctor",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The farmer harvested the crops in the field",
+            "is_NP": true,
+            "is_S": false
+        },
+        {
+            "sentence": "The carpenter crafted the furniture with great skill and attention to detail",
+            "is_NP": true,
+            "is_S": false
         }
     ]
 }
