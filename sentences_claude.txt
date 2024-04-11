@@ -1,24 +1,34 @@
 The employees understood the contract that they had signed the previous month
 The mechanic accepted the car that the customer had brought in for repair
 The old man recalled the nurse who had cared for him during his long illness
+The traveller heard the clock strike midnight
 The worker maintained the walls to ensure the building's structural integrity
 The apprentice forgot the bicycle at the shop
 The committee mentioned the issue that the new policy was causing significant concerns among the employees
-The artist conveyed the essence of the landscape through his masterful use of color and texture
+The army discovered the supplies were hidden in the warehouse
+The umpire warned the spectators that they would be ejected from the stadium if they continued to disrupt the game
+of the landscape through his masterful use of color and texture
 The teacher expressed the concept that the students understood the material
+The gardener detected the plants were wilting
+The employee believed the client was being dishonest
 The detective uncovered the clue that led to the suspect's arrest
 The author brainstormed the book to come up with a captivating storyline
 The man saw the doctor who was examining a patient
 The historian researched the era when the great leaders of the nation made significant political decisions that shaped the course of history
 The musician composed the melody that was later performed at the concert
 The runner broke the record because it was an outstanding performance
-The student studied the material diligently in order to pass the exam
+The viewer predicted the scene would unfold dramatically
+diligently in order to pass the exam
 The doctor reviewed the case and determined that the patient's condition was improving
 The builder calculated the space that was required for the new addition
-The teacher perceived the effort the student had put into the assignment
+the student had put into the assignment
+The traveler suggested the landmark was worth visiting
 The woman noticed the flyer advertising the upcoming charity event
+The passengers feared the storm would bring heavy rain and strong winds
 The professor questioned the theory that the experiment had produced unexpected results
-The banker secured the loan to finance the expansion of the company
+to finance the expansion of the company
+The politician stated that the new policy would be implemented immediately
+The surgeon asserted the procedure was a success
 The photographer captured the moment when the couple exchanged their vows
 The baker found the recipe that had been hidden in the back of the pantry
 The scientist proposed the hypothesis that the new experiment would yield unexpected results
@@ -26,5 +36,5 @@ The counselor advised the student to apply for the scholarship
 The driver inspected the vehicle, which appeared to be in good condition
 The tourists distinguished the palace from the other buildings in the city
 The priest recognized the guests who had arrived early for the ceremony
-The owners insured the house against any potential damages
+against any potential damages
 The lawyer established the alibi that his client was in a different city at the time of the crime
